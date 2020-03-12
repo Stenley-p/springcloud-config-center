@@ -1,1 +1,2 @@
-this is prod file !!!!!!!!!!!!
+config:
+  info: "this is prod file !!!!!!!!!!!!"
